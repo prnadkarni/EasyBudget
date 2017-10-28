@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EasyBudgeting</string>
+    <string name="edit_date">Date</string>
+    <string-array name="categories_array">
+        <item>Category</item>
+        <item>Food/Grocery</item>
+        <item>Rent/Utilities</item>
+        <item>Entertainment</item>
+        <item>Clothes</item>
+        <item>New Purchases</item>
+        <item>Gas/Car Utilities</item>
+        <item>Tuition/Books</item>
+        <item>None</item>
+
+    </string-array>
+    <string name="foodBudget">0</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TextBudRent"> </string>
+    <string name="Date3"><b>Date: </b></string>
+
+</resources>
